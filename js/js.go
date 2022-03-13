@@ -1,5 +1,9 @@
 package js
 
+//
+//------------------ (c) 1992-2022 Com1 Software Development
+//
+
 // DateTimeDisplay : Date Time Display
 func DateTimeDisplay(xdata string) string {
 	//------------------------------------------------------------------------
