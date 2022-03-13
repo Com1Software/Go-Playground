@@ -1,5 +1,5 @@
 # Go-Playground-for-Programmers
-A place to find and test Go code.
+
 
 [Go - Dev](https://go.dev/)
 
