@@ -2,6 +2,10 @@ package css
 
 //	"fmt"
 
+//
+//------------------ (c) 1992-2022 Com1 Software Development
+//
+
 // BaseStyle : This is a base style sheet
 func BaseStyle(xdata string) string {
 	xdata = xdata + "<style>"
