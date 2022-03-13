@@ -3,9 +3,9 @@
 
 [Current Status](https://github.com/Com1Software/Go-Playground-for-Programmers/wiki/Current-Status)
 
-[Go Links](https://github.com/Com1Software/DBF-Package)
+[Go Links](https://github.com/Com1Software/Go-Playground-for-Programmers/wiki/Golang-Links)
 
-[DBF-Package](https://github.com/Com1Software/Go-Playground-for-Programmers/wiki/Golang-Links)
+[DBF-Package](https://github.com/Com1Software/DBF-Package)
 
 [Test DBF-Package](https://github.com/Com1Software/Test-DBF-Package)
 
