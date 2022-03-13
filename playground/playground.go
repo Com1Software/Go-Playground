@@ -3,8 +3,6 @@ package playground
 import (
 	"playground/css"
 	"playground/js"
-	//	"comone/css"
-	//	"comone/js"
 )
 
 // Start Page :
@@ -17,8 +15,8 @@ func StartPage() string {
 	xdata = js.DateTimeDisplay(xdata)
 	xdata = xdata + "</head>"
 	xdata = xdata + "<body onload='startTime()'>"
-	xdata = xdata + "<p>X12 Viewer</p>"
-	xdata = xdata + "<BR> X12 Viewer <BR> (c) 1992-2018 Com1 Software Development"
+	xdata = xdata + "<p>XStart Page</p>"
+	xdata = xdata + "<BR> Go Playground for Programers <BR> (c) 1992-2022 Com1 Software Development"
 	xdata = xdata + " </body>"
 	xdata = xdata + " </html>"
 	return xdata
@@ -34,8 +32,8 @@ func TestPage1() string {
 	xdata = js.DateTimeDisplay(xdata)
 	xdata = xdata + "</head>"
 	xdata = xdata + "<body onload='startTime()'>"
-	xdata = xdata + "<p>X12 Parser</p>"
-	xdata = xdata + "<BR> X12 Parser <BR> (c) 1992-2018 Com1 Software Development"
+	xdata = xdata + "<p>Test Page 1</p>"
+	xdata = xdata + "<BR> Test page 1 <BR> (c) 1992-2022 Com1 Software Development"
 	xdata = xdata + " </body>"
 	xdata = xdata + " </html>"
 	return xdata
