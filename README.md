@@ -1,6 +1,8 @@
 # Go-Playground-for-Programmers
 
 
+[Current Status](https://github.com/Com1Software/Go-Playground-for-Programmers)
+
 [Go - Dev](https://go.dev/)
 
 [Mercurial](https://www.mercurial-scm.org/)
