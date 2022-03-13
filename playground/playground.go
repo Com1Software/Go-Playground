@@ -5,6 +5,9 @@ import (
 	"playground/js"
 )
 
+//
+//------------------ (c) 1992-2022 Com1 Software Development
+//
 // Start Page :
 func StartPage() string {
 	xdata := "<!DOCTYPE html>"
