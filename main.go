@@ -7,7 +7,9 @@ import (
 
 	"github.com/Com1Software/Go-Playground-for-Programmers/tree/main/playground"
 )
-
+//
+//------------------ (c) 1992-2022 Com1 Software Development
+//
 func main() {
 	fmt.Printf("Go Playground for Programmers (c) Copyright Com1Software 1992-2022\n")
 	fmt.Printf("Operating System : %s\n", runtime.GOOS)
