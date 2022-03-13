@@ -1,7 +1,7 @@
 # Go-Playground-for-Programmers
 
 
-[Current Status](https://github.com/Com1Software/Go-Playground-for-Programmers)
+[Current Status](https://github.com/Com1Software/Go-Playground-for-Programmers/wiki/Current-Status)
 
 [Go - Dev](https://go.dev/)
 
