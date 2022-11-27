@@ -1,5 +1,6 @@
 # Go-Playground
 
+[AWS DeepRacer](https://www.amazon.com/AWS-DeepRacer-Sensor-Kit-Autonomous/dp/B081DP5N9L/ref=sr_1_20?crid=3NBAGEMS7SQFM&keywords=Slamtec%2BRPLIDAR%2BA1M8&qid=1669561687&s=electronics&sprefix=slamtec%2Brplidar%2Ba1m8%2Celectronics%2C83&sr=1-20&th=1)
 
 [Flysky Hookup](https://medium.com/@werneckpaiva/how-to-read-rc-signal-with-arduino-using-flysky-ibus-73448bc924eb)
 
