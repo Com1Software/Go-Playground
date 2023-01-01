@@ -1,5 +1,7 @@
 # Go-Playground
 
+[golang-book/03-projects/03-create-shared-module](https://softchris.github.io/golang-book/03-projects/03-create-shared-module/)
+
 [AWS DeepRacer](https://www.amazon.com/AWS-DeepRacer-Sensor-Kit-Autonomous/dp/B081DP5N9L/ref=sr_1_20?crid=3NBAGEMS7SQFM&keywords=Slamtec%2BRPLIDAR%2BA1M8&qid=1669561687&s=electronics&sprefix=slamtec%2Brplidar%2Ba1m8%2Celectronics%2C83&sr=1-20&th=1)
 
 [go modules by example](https://github.com/go-modules-by-example/index)
