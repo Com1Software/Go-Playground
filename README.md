@@ -1,5 +1,7 @@
 # Go-Playground
 
+[Install Go on Monjaro](https://snapcraft.io/install/go/manjaro)
+
 [kbroman.org/github_tutorial](https://kbroman.org/github_tutorial/pages/init.html)
 
 [golang-book/03-projects/03-create-shared-module](https://softchris.github.io/golang-book/03-projects/03-create-shared-module/)
