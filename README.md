@@ -1,5 +1,9 @@
 # Go-Playground
 
+https://github.com/bskari/pi-rc
+
+https://brskari.wordpress.com/2014/06/02/turn-your-raspberry-pi-into-a-radio-controller-for-rc-vehicles/
+
 https://github.com/samfok/remote_receiver_tutorial
 
 https://en.wikipedia.org/wiki/ANSI_escape_code
