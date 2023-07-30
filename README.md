@@ -1,5 +1,7 @@
 # Go-Playground
 
+https://www.youtube.com/watch?v=E2sTbpFsvXI&t=4s
+
 https://github.com/d2r2/go-hd44780
 
 https://github.com/bskari/pi-rc
