@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=m8r8prXrcgw
 
 https://www.youtube.com/watch?v=E2sTbpFsvXI&t=4s
 
+https://www.sparkfun.com/tutorials/289
+
 https://github.com/d2r2/go-hd44780
 
 https://github.com/bskari/pi-rc
