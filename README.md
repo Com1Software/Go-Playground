@@ -1,5 +1,7 @@
 # Go-Playground
 
+https://pkg.go.dev/github.com/wlzxzq/rpi-devices
+
 https://www.youtube.com/watch?v=m8r8prXrcgw
 
 https://www.youtube.com/watch?v=E2sTbpFsvXI&t=4s
