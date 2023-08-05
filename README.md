@@ -2,6 +2,8 @@
 
 https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 
+https://roboticsbackend.com/raspberry-pi-3-pins/
+
 https://pkg.go.dev/github.com/wlzxzq/rpi-devices
 
 https://www.youtube.com/watch?v=m8r8prXrcgw
