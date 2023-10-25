@@ -1,5 +1,7 @@
 # Go-Playground
 
+https://akashrajpurohit.com/blog/installing-the-latest-version-of-golang-on-your-raspberry-pi/
+
 https://www.jeremymorgan.com/tutorials/raspberry-pi/install-go-raspberry-pi/
 
 https://www.codeconvert.ai/python-to-golang-converter
