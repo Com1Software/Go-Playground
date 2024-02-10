@@ -1,13 +1,5 @@
 # Go-Playground
 
-https://github.com/DataDog/go-python3/issues/24
-
-https://www.datadoghq.com/blog/engineering/cgo-and-python/
-
-[Embedding Python in Go](https://poweruser.blog/embedding-python-in-go-338c0399f3d5)
-
-[example: using Python bindings for Go](https://github.com/christian-korneck/python-go/tree/master/py-bindings/outliers)
-
 [Python to Go Coverter](https://www.codeconvert.ai/python-to-golang-converter)
 
 https://akashrajpurohit.com/blog/installing-the-latest-version-of-golang-on-your-raspberry-pi/
