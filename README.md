@@ -1,5 +1,6 @@
 # Go-Playground
 
+https://github.com/DataDog/go-python3/issues/24
 
 https://www.datadoghq.com/blog/engineering/cgo-and-python/
 
