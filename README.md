@@ -1,6 +1,6 @@
 # Go-Playground
 
-[gioui.org](https://gioui.org/) = crossplatform GUI for Go
+[gioui.org](https://gioui.org/) - crossplatform GUI for Go
 
 [Python to Go Coverter](https://www.codeconvert.ai/python-to-golang-converter)
 
