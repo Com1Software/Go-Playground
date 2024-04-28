@@ -1,5 +1,9 @@
 # Go-Playground
 
+[Go Nuts Group](https://groups.google.com/g/golang-nuts)
+
+[golang-dev Group discussion of the development of the Go project](https://groups.google.com/g/golang-dev)
+
 [gioui.org](https://gioui.org/) - crossplatform GUI for Go
 
 [Python to Go Coverter](https://www.codeconvert.ai/python-to-golang-converter)
