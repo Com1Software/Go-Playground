@@ -2,6 +2,8 @@
 
 [Go Nuts Group](https://groups.google.com/g/golang-nuts)
 
+[go-gui-projects](https://github.com/go-graphics/go-gui-projects)
+
 [curl-to-Go](https://mholt.github.io/curl-to-go/)
 
 [golang-dev Group discussion of the development of the Go project](https://groups.google.com/g/golang-dev)
