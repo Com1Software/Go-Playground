@@ -22,6 +22,8 @@ https://www.codeconvert.ai/python-to-golang-converter
 
 https://github.com/git/git 
 
+https://github.com/michaelachrisco/Electronic-Interchange-Github-Resources?tab=readme-ov-file
+
 https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 
 https://roboticsbackend.com/raspberry-pi-3-pins/
