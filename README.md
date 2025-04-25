@@ -1,5 +1,13 @@
 # Go-Playground
 
+[ Model Context Protocol (MCP) Getting Started](https://modelcontextprotocol.io/introduction)
+
+[Go-MPC](https://github.com/ThinkInAIXYZ/go-mcp)
+
+[GO-MPC-Harbour](https://github.com/zxmfke/go-mcp-harbor)
+
+[Go=MPC Harbour discussion](https://groups.google.com/g/harbour-users/c/VXzsRB7_9sg)
+
 [Go Nuts Group](https://groups.google.com/g/golang-nuts)
 
 [go-gui-projects](https://github.com/go-graphics/go-gui-projects)
